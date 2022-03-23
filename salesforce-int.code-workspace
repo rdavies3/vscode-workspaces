@@ -1,0 +1,68 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../crm-salesforce-enterprise"
+	},
+	{
+		"path": "../crm-academic-organization"
+	},
+	{
+		"path": "../crm-case"
+	},
+	{
+		"path": "../crm-contact"
+	},
+	{
+		"path": "../crm-event"
+	},
+	{
+		"path": "../crm-health-check-status"
+	},
+	{
+		"path": "../crm-mdm-crosswalk"
+	},
+	{
+		"path": "../crm-opportunity"
+	},
+	{
+		"path": "../crm-persistence-outlook"
+	},
+	{
+		"path": "../crm-record-type"
+	},
+	{
+		"path": "../crm-salesforce-dataload"
+	},
+	{
+		"path": "../crm-salesforce-enterprise-sdse"
+	},
+	{
+		"path": "../crm-subscription"
+	},
+	{
+		"path": "../crm-success-pod"
+	},
+	{
+		"path": "../crm-user-group"
+	},
+	{
+		"path": "../ddt-common-error"
+	},
+	{
+		"path": "../ddt-common-utils"
+	},
+	{
+		"path": "../ddt-mulesoft-base-application-template"
+	},
+	{
+		"path": "../ddt-mulesoft-objectstore"
+	},
+	{
+		"path": "../sfdx-soql"
+	}
+],
+  "settings": {}
+}
