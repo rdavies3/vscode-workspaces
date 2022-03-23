@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "../caas-helm-charts"
+    },
+    {
+      "path": "../caas-image-library"
+    },
+    {
+      "path": "../dco-terraform"
+    },
+    {
+      "path": "../devops-jenkins-pipeline-library"
+    },
+    {
+      "path": "../dot-github-org-management"
+    },
+    {
+      "path": "../mom-2650-jumpstreet"
+    },
+    {
+      "path": "../mom-aws-mgmt-plane"
+    },
+    {
+      "path": "../mom-linux-secure-vdis"
+    }
+  ],
+  "settings": {}
+}
